@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working at [Selise Digital Platform](https://selise.ch/)
+- 🔭 I’m currently working at [SELISE Digital Platform](https://selise.ch/)
 - 🌱 I’m currently learning C#, ASP.Net Core
 - 💬 Ask me about JavaScript, Angular
-- 📫 How to reach me: you can send me an email or a carrier pigeon. Whichever works for you!
-     Email: delower.hosen00@gmail.com
+- 📫 How to reach me: you can send me an email [delower.hosen00@gmail.com] or a carrier pigeon. Whichever works for you!
 - 😄 Pronouns: He/His
